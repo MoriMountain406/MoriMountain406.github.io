@@ -1,22 +1,30 @@
 ---
-title: Home
-layout: default
+title: Mori Mountain
+layout: home
 nav_order: 1
 ---
 
 # 🌲 Mori Mountain
 
-> **Hokkaido Touch. Montana Grown. Glacier Tough.**
+> Hokkaido Touch. Montana Grown. Glacier Tough.
 
-Welcome to the public knowledge base of **Mori Mountain**.
+Welcome to the **Mori Mountain Open Research Atlas**.
 
-Our mission is to develop and openly document regenerative agricultural systems, cold-climate plant research, ecological design, and open innovation.
+We build and document:
+- Cold-climate agriculture systems
+- Regenerative soil biology
+- Plant adaptation research
+- Open innovation engineering
 
-## Explore
+---
 
-- 🌱 Plant Library
-- 🧬 Protocols
-- 🌎 Systems
-- 💡 Open Innovation Lab
-- 📚 Knowledge Base
-- 📝 Field Journal
+## 🧭 Explore
+
+- 🌱 [Plant Library](plants.md)
+- 🧬 [Protocols](protocols.md)
+- 🌎 [Systems](systems.md)
+- 💡 [Open Innovation Lab (BrainBox)](brainbox.md)
+- 📚 [Knowledge Base](knowledge.md)
+- 🧪 [Field Journal](journal.md)
+- 🧰 [Projects](projects.md)
+- 🔧 [Resources](resources.md)
