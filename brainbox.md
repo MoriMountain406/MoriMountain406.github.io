@@ -32,5 +32,5 @@ Explore our ongoing concepts and prototypes below:
 
 * [Transportation Systems](#) (Coming soon)
 * [Micro-Agriculture Tech](#) (Coming soon)
-* [Energy Cycling](#) (Coming soon)
+* [Energy Cycling](#) (Coming Soon)
 
