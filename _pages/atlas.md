@@ -4,18 +4,22 @@ permalink: /atlas/
 layout: page
 ---
 
- Roadmap
+ # Living Atlas
 
-This page documents the long-term development of Mori Mountain.
+The Atlas is the central knowledge database for Mori Mountain.
 
-- Nursery
+Topics include:
 
-- Living Atlas
+- Plants
 
-- Research
+- Soil Biology
 
-- Consulting
+- Biochar
 
-- Education
+- Mycorrhizae
 
-More coming soon.
+- Ecological Design
+
+- Protocols
+
+The first entries are currently being added.
