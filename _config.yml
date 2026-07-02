@@ -1,9 +1,9 @@
 title: Mori Mountain
 description: Hokkaido Touch. Montana Grown. Glacier Tough.
 
-theme: just-the-docs
-
 url: https://morimountain406.github.io
+
+remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
 
@@ -13,7 +13,10 @@ nav_sort: case_insensitive
 
 heading_anchors: true
 
-footer_content: "© Mori Mountain • Building resilient systems through open knowledge."
-
 aux_links:
-  GitHub Repository: "https://github.com/MoriMountain406/MoriMountain406.github.io"
+  GitHub Repository: https://github.com/MoriMountain406/MoriMountain406.github.io
+
+footer_content: "© Mori Mountain • Open regenerative systems research"
+
+plugins:
+  - jekyll-remote-theme
