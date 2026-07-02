@@ -41,4 +41,8 @@ Our active propagation and seedling trials currently growing in the systems lab:
 
 The core species we are actively researching and looking to acquire for the Mori Mountain ecosystem:
 
-* **Huckleberries** * **Saskatoons (Serviceberries)** * **Ume Plums** * **Toka Plums** * **Black Oxford Apple** ```
+* Huckleberries
+* Saskatoons (Serviceberries)
+* Ume Plums
+* Toka Plums
+* Black Oxford Apple
