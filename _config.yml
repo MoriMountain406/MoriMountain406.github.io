@@ -20,3 +20,7 @@ footer_content: "© Mori Mountain • Open regenerative systems research"
 
 plugins:
   - jekyll-remote-theme
+  
+collections:
+  pages:
+    output: true
