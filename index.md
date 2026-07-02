@@ -20,6 +20,7 @@ We build and document:
 
 ## 🧭 Explore
 
+- 🌎 [Living Atlas](atlas.md)
 - 🌱 [Plant Library](plants.md)
 - 🧬 [Protocols](protocols.md)
 - 🌎 [Systems](systems.md)
