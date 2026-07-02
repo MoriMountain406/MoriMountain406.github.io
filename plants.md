@@ -42,13 +42,3 @@ Our active propagation and seedling trials currently growing in the systems lab:
 The core species we are actively researching and looking to acquire for the Mori Mountain ecosystem:
 
 * **Huckleberries** * **Saskatoons (Serviceberries)** * **Ume Plums** * **Toka Plums** * **Black Oxford Apple** ```
-
-### Step 2: Commit the Change
-
-1. Paste that code into `plants.md`.
-2. Tap **Commit changes**.
-3. Wait a minute or two for the GitHub robot to build it.
-
-Once it's live, "Plant Library" will automatically appear in your left sidebar right under the Open Innovation Lab, and the page will look incredibly professional. 
-
-Do you want to create the first nested sub-page for this section (like a dedicated page just for the Honeyberries/Haskaps), or should we update the front matter for the rest of your main pages so your entire left sidebar navigation is fully visible?
