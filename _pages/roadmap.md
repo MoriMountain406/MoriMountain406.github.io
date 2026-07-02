@@ -21,46 +21,25 @@ This page documents the long-term development of Mori Mountain.
 More coming soon.
 
 Website goals:
-Version
 
-Goal
+Version Goal
 
-v0.1
+v0.1 Stable website foundation ✅
 
-Stable website foundation ✅
+v0.2 Navigation polish, branding, Atlas landing page
 
-v0.2
+v0.3 Living Atlas functional
 
-Navigation polish, branding, Atlas landing page
+v0.4 Journal integration & custom domain
 
-v0.3
+v0. Nursery catalog
 
-Living Atlas functional
+v0.6 Services & consulting
 
-v0.4
+v0.7 Interactive roadmap
 
-Journal integration & custom domain
+v0.8 Search and cross-linking
 
-v0.5
+v0.9 Public beta
 
-Nursery catalog
-
-v0.6
-
-Services & consulting
-
-v0.7
-
-Interactive roadmap
-
-v0.8
-
-Search and cross-linking
-
-v0.9
-
-Public beta
-
-v1.0
-
-First complete public release
+v1.0 First complete public release
