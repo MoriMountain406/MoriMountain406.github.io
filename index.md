@@ -23,7 +23,7 @@ We build and document:
 - 🌱 [Plant Library](plants.md)
 - 🧬 [Protocols](protocols.md)
 - 🌎 [Systems](systems.md)
-- 💡 [Open Innovation Lab (BrainBox)](brainbox.md)
+- 💡 [Open Innovation Lab](/innovation/)
 - 📚 [Knowledge Base](knowledge.md)
 - 🧪 [Field Journal](journal.md)
 - 🧰 [Projects](projects.md)
