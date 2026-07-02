@@ -1,6 +1,5 @@
 ---
 title: Mori Mountain
-url: /home/
 layout: page
 ---
 
