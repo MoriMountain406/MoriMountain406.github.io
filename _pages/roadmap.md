@@ -32,7 +32,7 @@ v0.3 Living Atlas functional
 
 v0.4 Journal integration & custom domain
 
-v0. Nursery catalog
+v0.5 Nursery catalog
 
 v0.6 Services & consulting
 
