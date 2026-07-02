@@ -6,6 +6,7 @@ layout: page
 ## Hokkaido Touch. Montana Grown. Glacier Tough.
 
 A living system for cold-hardy agriculture, soil regeneration, and ecological design.
+Mori Mountain is a living research and nursery project exploring cold-climate agriculture, resilient food systems, soil biology, and ecological design for the northern world.
 
 ---
 
