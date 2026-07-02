@@ -22,7 +22,7 @@ Unless otherwise stated, all concepts in this section are released into the publ
 * Build on them
 * Commercialize them
 
-No permission or attribution is required, though we always love hearing how these ideas evolve in the wild.
+No permission or attribution is required, though we always love hearing how these ideas evolve in the wild. Open collaboration is encouraged.
 
 ---
 
