@@ -29,3 +29,6 @@ We build and document:
 - 🧪 [Field Journal](journal.md)
 - 🧰 [Projects](projects.md)
 - 🔧 [Resources](resources.md)
+- 🛣️ [Road Map](roadmap.md)
+- 🫐 [About Us](about.md)
+- 📞 [Contact](contact.md)
