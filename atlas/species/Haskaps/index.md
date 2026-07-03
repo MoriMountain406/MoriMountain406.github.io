@@ -1,5 +1,6 @@
 ---
 title: Haskaps System
+url: /haskap/
 nav_order: 1
 ---
 
