@@ -1,6 +1,7 @@
 ---
 title: Honey Bee Haskap
 parent: Haskaps
+layout: page
 nav_order: 3
 ---
 
