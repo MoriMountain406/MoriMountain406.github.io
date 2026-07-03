@@ -1,7 +1,7 @@
 ---
 title: Aurora Haskap
 parent: Haskaps
-nav_order: 1
+nav_order: 2
 ---
 
 # Aurora Haskap (Lonicera caerulea)
