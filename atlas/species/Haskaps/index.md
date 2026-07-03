@@ -18,16 +18,16 @@ Each cultivar plays a defined system role:
 ## System Structure
 
 ### Cultivars
-- [Aurora](./aurora.md)
-- [Honey Bee](./honeybee.md)
-- [Indigo Gem](./indigo-gem.md)
-- [Tundra](./tundra.md)
+- [Aurora](/aurora.md)
+- [Honey Bee](/honeybee.md)
+- [Indigo Gem](/indigo-gem.md)
+- [Tundra](/tundra.md)
 
 ---
 
 ## System-Level Analysis
 
-- [Cultivar Comparison](./comparison.md)
+- [Cultivar Comparison](/comparison.md)
 
 ---
 
