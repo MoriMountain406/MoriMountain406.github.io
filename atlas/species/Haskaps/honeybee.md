@@ -1,7 +1,7 @@
 ---
 title: Honey Bee Haskap
 parent: Haskaps
-nav_order: 2
+nav_order: 3
 ---
 
 # Honey Bee Haskap (Lonicera caerulea)
