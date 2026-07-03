@@ -21,7 +21,7 @@ It organizes plant life into structured, evolving systems of:
 
 ### 🌿 Species Atlas
 Core plant systems and taxonomic organization  
-→ [Open Species Atlas](/species/)
+→ [Open Species Atlas](/atlas/species/)
 
 ---
 
