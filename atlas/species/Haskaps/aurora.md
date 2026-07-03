@@ -1,7 +1,7 @@
 ---
 title: Aurora Haskap
 parent: Haskaps
-layout:page
+layout: page
 nav_order: 2
 ---
 
