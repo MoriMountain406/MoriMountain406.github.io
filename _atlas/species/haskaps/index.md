@@ -1,79 +1,79 @@
 ---
-title: Haskaps
+title: Haskaps System
 nav_order: 1
 ---
 
 # Haskaps (Lonicera caerulea)
 
-Cold-climate berry system focused on early-season fruit production, pollination dynamics, and orchard system design.
+The haskap system is a **multi-cultivar production and ecological network**, not a single crop.
+
+Each cultivar plays a defined system role:
+- production
+- pollination
+- stability
+- benchmarking
 
 ---
 
-## Overview
+## System Structure
 
-The haskap system at Mori Mountain is not treated as a single crop, but as a **multi-cultivar ecological and economic system**.
-
-Each cultivar plays a role:
-- fruit production
-- pollination support
-- yield stabilization
-- harvest timing variation
-
----
-
-## Cultivars
-
+### Cultivars
 - [Aurora](./aurora.md)
 - [Honey Bee](./honeybee.md)
 - [Indigo Gem](./indigo-gem.md)
 - [Tundra](./tundra.md)
 
-(Future additions: Indigo Gem, Tundra, Borealis, etc.)
+---
+
+## System-Level Analysis
+
+- [Cultivar Comparison](./comparison.md)
 
 ---
 
-## System Roles
+## Functional Roles
 
-### Production Cultivars
+### Production Layer
 - Aurora
-- (future: Indigo Gem, Borealis)
 
-### Pollination Cultivars
+### Pollination Layer
 - Honey Bee
 
----
+### Benchmark Layer
+- Indigo Gem
 
-## Key Research Areas
-
-- Pollination overlap timing
-- Cold spring frost resilience
-- Yield stability in mixed plantings
-- Soil biology response
-- Biochar interaction studies
+### Stability Layer
+- Tundra
 
 ---
 
-## Mori Mountain Experiments
+## Research Focus
 
-- MM-HA-001: Baseline Aurora establishment
-- MM-HA-002: Pollination efficiency study
-- MM-HA-003: Mixed cultivar yield dynamics
-
----
-
-## Market Position
-
-Haskaps represent:
-- early-season niche fruit
-- high-value specialty crop potential
-- strong restaurant interest window
-- emerging North American market
+- Pollination network dynamics
+- Yield stability across cultivar mixes
+- Climate response variability
+- Soil biology interactions
+- Market performance segmentation
 
 ---
 
-## Related Systems
+## Connection to Mori Mountain System
 
-- Pollination Biology
-- Cold Climate Orchard Design
+Haskaps integrate into:
+
+- Laboratory experiments
 - Living Market Atlas
-- Laboratory Experiments
+- Field Journal
+- Species Atlas
+
+---
+
+## How to Use This System
+
+This is not a list of plants.
+
+It is a **designed biological system model** used for:
+- orchard planning
+- yield optimization
+- experimental design
+- market analysis
