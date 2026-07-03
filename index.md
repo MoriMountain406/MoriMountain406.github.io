@@ -12,7 +12,7 @@ Mori Mountain is a living research and nursery project exploring cold-climate ag
 
 ## Enter the System
 
-- [Atlas](/atlas/) — Living knowledge database of plants, soil, and protocols  
+- [Living Atlas](./atlas/) — Living knowledge database of plants, soil, and protocols  
 - [Roadmap](/roadmap/) — Development path and experiments in progress  
 - [About](/about/) — Vision, principles, and direction  
 
