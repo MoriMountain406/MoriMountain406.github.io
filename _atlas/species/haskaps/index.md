@@ -25,6 +25,8 @@ Each cultivar plays a role:
 
 - [Aurora](./aurora.md)
 - [Honey Bee](./honeybee.md)
+- [Indigo Gem](./indigo-gem.md)
+- [Tundra](./tundra.md)
 
 (Future additions: Indigo Gem, Tundra, Borealis, etc.)
 
