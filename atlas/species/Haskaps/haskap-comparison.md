@@ -19,7 +19,6 @@ This page synthesizes performance, role, and system behavior across Mori Mountai
 ## Cultivar Comparison System
 
 | Cultivar | Role | Yield | Stability | Pollination |
-|----------|------|-------|-----------|-------------|
 
 {% for c in cultivars %}
 | {{ c.name }} | {{ c.role }} | {{ c.yield }} | {{ c.stability }} | {{ c.pollination }} |
