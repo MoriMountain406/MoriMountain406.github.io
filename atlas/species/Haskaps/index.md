@@ -28,7 +28,7 @@ Each cultivar plays a defined system role:
 
 ## System-Level Analysis
 
-- [Cultivar Comparison](/atlas/species/Haskaps/haskap-comparison/)
+- [Cultivar Comparison](/haskap-comparison/)
 
 ---
 
