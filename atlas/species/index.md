@@ -1,5 +1,6 @@
 ---
 title: Species Atlas
+layout: page
 nav_order: 1
 ---
 
