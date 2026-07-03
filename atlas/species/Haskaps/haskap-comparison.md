@@ -14,12 +14,16 @@ This page synthesizes performance, role, and system behavior across Mori Mountai
 
 ## Cultivar Roles
 
-| Cultivar | Primary Role | System Function |
-|----------|-------------|----------------|
-| Aurora | Production | High-value fruit yield |
-| Honey Bee | Pollination | System stability |
-| Indigo Gem | Benchmark | Reference standard |
-| Tundra | Legacy stability | Environmental resilience baseline |
+{% assign cultivars = site.data.haskaps.cultivars %}
+
+## Cultivar Comparison System
+
+| Cultivar | Role | Yield | Stability | Pollination |
+|----------|------|-------|-----------|-------------|
+
+{% for c in cultivars %}
+| {{ c.name }} | {{ c.role }} | {{ c.yield }} | {{ c.stability }} | {{ c.pollination }} |
+{% endfor %}
 
 ---
 
