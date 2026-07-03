@@ -1,0 +1,28 @@
+cultivars:
+  - id: aurora
+    name: Aurora
+    role: production
+    yield: high
+    stability: medium
+    pollination: moderate
+
+  - id: honeybee
+    name: Honey Bee
+    role: pollination
+    yield: low
+    stability: high
+    pollination: critical
+
+  - id: indigo-gem
+    name: Indigo Gem
+    role: benchmark
+    yield: medium
+    stability: high
+    pollination: strong
+
+  - id: tundra
+    name: Tundra
+    role: stability
+    yield: medium
+    stability: very_high
+    pollination: compatible
