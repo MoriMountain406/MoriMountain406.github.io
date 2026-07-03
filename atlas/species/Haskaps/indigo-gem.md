@@ -1,7 +1,8 @@
 ---
 title: Indigo Gem Haskap
 parent: Haskaps
-nav_order: 3
+layout: page
+nav_order: 4
 ---
 
 # Indigo Gem Haskap (Lonicera caerulea)
