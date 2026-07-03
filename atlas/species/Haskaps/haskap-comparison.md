@@ -2,6 +2,7 @@
 title: Haskap Comparison
 parent: Haskaps
 layout: page
+permalink: /atlas/species/Haskaps/haskap-comparison/
 nav_order: 6
 ---
 
