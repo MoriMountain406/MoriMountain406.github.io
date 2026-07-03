@@ -2,6 +2,7 @@
 title: Aurora Haskap
 parent: Haskaps
 layout: page
+permalink: /atlas/species/Haskaps/aurora
 nav_order: 2
 ---
 
