@@ -1,7 +1,8 @@
 ---
 title: Tundra Haskap
 parent: Haskaps
-nav_order: 4
+layout: page
+nav_order: 5
 ---
 
 # Tundra Haskap (Lonicera caerulea)
