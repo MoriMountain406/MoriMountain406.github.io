@@ -39,7 +39,7 @@ Each species system contains:
 
 ## Current Species Systems
 
-- [Haskaps](/atlas/species/Haskaps/
+- [Haskaps](/atlas/species/Haskaps/)
 <!-- future -->
 <!-- apples -->
 <!-- plums -->
