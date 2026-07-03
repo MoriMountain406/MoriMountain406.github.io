@@ -1,6 +1,7 @@
 ---
-title: Haskaps System
+title: Haskaps
 layout: page
+permalink: /atlas/species/Haskaps/
 nav_order: 1
 ---
 
