@@ -1,6 +1,6 @@
 ---
 title: Haskap Comparison
-parent: /Haskaps/
+parent: Haskaps
 layout: page
 nav_order: 6
 ---
