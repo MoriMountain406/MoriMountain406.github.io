@@ -2,6 +2,7 @@
 title: Indigo Gem Haskap
 parent: Haskaps
 layout: page
+permalink: /atlas/species/Haskaps/indigo-gem
 nav_order: 4
 ---
 
