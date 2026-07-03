@@ -2,6 +2,7 @@
 title: Honey Bee Haskap
 parent: Haskaps
 layout: page
+permalink: /atlas/species/Haskaps/honeybee
 nav_order: 3
 ---
 
