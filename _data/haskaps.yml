@@ -6,6 +6,34 @@ cultivars:
     stability: medium
     pollination: moderate
 
+    system_role:
+      primary: production
+      secondary: yield_stability
+      network_function: core_output_node
+
+    performance:
+      yield_score: 8
+      stability_score: 6
+      vigor_score: 7
+
+    risk_profile:
+      frost_risk: medium
+      drought_tolerance: medium
+      disease_risk: low
+      winter_kill_risk: low
+
+    soil_response:
+      ph_range: "5.5-7.0"
+      mycorrhizal_dependence: high
+      biochar_response: positive
+      drainage_need: medium_high
+
+    compatibility:
+      best_pollinators:
+        - honeybee
+      weak_compatibility: []
+      companion_plants: []
+
   - id: honeybee
     name: Honey Bee
     role: pollination
