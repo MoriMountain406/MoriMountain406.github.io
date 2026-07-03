@@ -2,6 +2,7 @@
 title: Tundra Haskap
 parent: Haskaps
 layout: page
+permalink: /atlas/species/Haskaps/tundra
 nav_order: 5
 ---
 
