@@ -1,7 +1,8 @@
 ---
 title: Haskap Comparison
+parent: /Haskaps/
 layout: page
-nav_order: 3
+nav_order: 6
 ---
 
 # Haskap Cultivar Comparison System
