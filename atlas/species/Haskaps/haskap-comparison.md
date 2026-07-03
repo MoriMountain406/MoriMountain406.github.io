@@ -1,6 +1,5 @@
 ---
-title: Haskap Cultivar Comparison
-parent: Haskaps
+title: Haskap Comparison
 layout: page
 nav_order: 5
 ---
