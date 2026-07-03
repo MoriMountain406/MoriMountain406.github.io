@@ -5,29 +5,25 @@ layout: page
 permalink: /atlas/species/Haskaps/haskap-comparison/
 nav_order: 6
 ---
-
 # Haskap Cultivar Comparison System
 
 This page synthesizes performance, role, and system behavior across Mori Mountain haskap cultivars.
 
 ---
 
-## Cultivar Roles
+## Cultivar Comparison
 
 {% assign cultivars = site.data.haskaps.cultivars %}
 
-## Cultivar Comparison System
-
 | Cultivar | Role | Yield | Stability | Pollination |
-
+|----------|------|-------|-----------|-------------|
 {% for c in cultivars %}
 | {{ c.name }} | {{ c.role }} | {{ c.yield }} | {{ c.stability }} | {{ c.pollination }} |
 {% endfor %}
 
-
 ---
 
-## Functional Comparison
+## Functional Analysis
 
 ### Yield Performance
 - Aurora → High potential yield
@@ -99,6 +95,7 @@ Current comparative studies:
 Haskap performance is not cultivar-independent.
 
 It is a **networked system outcome**, where:
+
 - pollination structure
 - cultivar mix
 - soil biology
@@ -117,6 +114,7 @@ This system is treated as:
 ---
 
 ## Related Pages
+
 - Individual cultivar profiles
 - Laboratory experiments
 - Pollination biology research
