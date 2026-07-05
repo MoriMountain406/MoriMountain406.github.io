@@ -1,56 +1,199 @@
+# _data/cultivars/haskaps.yml
+# Mori Mountain Entity Schema v0.1.0
+# Species-level facts (pH, hardiness) sourced from published research + USask.
+# Personal/farm fields (productivity_score, stability_score, vigor_score, your
+# own soil/risk observations) are left `unknown` — yours to fill as you grow.
+
 cultivars:
+
   - id: aurora
     name: Aurora
-    role: production
-    yield: high
-    stability: medium
-    pollination: moderate
+    type: cultivar
+    status: production          # you have 2 growing
+    species: haskap
 
     system_role:
       primary: production
-      secondary: yield_stability
-      network_function: core_output_node
+      network_function: >
+        Originally bred as a companion pollinator for the Borealis-Tundra-Indigo
+        (BTI) series; now grown as a primary production cultivar in its own right.
 
     performance:
-      yield_score: 8
-      stability_score: 6
-      vigor_score: 7
+      productivity_score: unknown
+      stability_score: unknown
+      vigor_score: unknown
 
-    risk_profile:
-      frost_risk: medium
-      drought_tolerance: medium
-      disease_risk: low
+    risk:
+      frost_sensitivity: unknown
+      drought_tolerance: unknown
+      disease_susceptibility: unknown
+      winter_kill_risk: low        # species-level: hardy below -47C
+
+    environment:
+      climate_zone: "USDA 2-8"
+      soil_ph:
+        optimum:   {min: 5.5, max: 6.5}   # species-level (Wikipedia/peer-reviewed)
+        tolerance: {min: 3.9, max: 7.7}   # species-level
+        lethal:    {below: unknown, above: unknown}
+
+    soil:
+      mycorrhizal_type: unknown
+      root_architecture: unknown
+
+    relationships:
+      best_pollinators: [tundra, indigo-gem, honey-bee]   # any unrelated cultivar blooming same time
+      companion_plants: []
+      antagonistic_species: []
+
+    phenology:
+      bud_break: unknown
+      flowering_time: mid
+      fruiting_window: mid            # mid-June to mid-July
+
+    utility:
+      edible_value: high
+      market_demand: unknown
+
+  - id: honey-bee
+    name: Honey Bee
+    type: cultivar
+    status: production          # you have 2 growing
+    species: haskap
+
+    system_role:
+      primary: production
+      network_function: >
+        Originally released as a pollinizer plant; now recommended as a
+        production cultivar, with BTI cultivars serving as its pollinizers.
+
+    performance:
+      productivity_score: unknown
+      stability_score: unknown
+      vigor_score: unknown
+
+    risk:
+      frost_sensitivity: unknown
+      drought_tolerance: unknown
+      disease_susceptibility: unknown
       winter_kill_risk: low
 
-    soil_response:
-      ph_range: "5.5-7.0"
-      mycorrhizal_dependence: high
-      biochar_response: positive
-      drainage_need: medium_high
+    environment:
+      climate_zone: "USDA 2-8"
+      soil_ph:
+        optimum:   {min: 5.5, max: 6.5}
+        tolerance: {min: 3.9, max: 7.7}
+        lethal:    {below: unknown, above: unknown}
 
-    compatibility:
-      best_pollinators:
-        - honeybee
-      weak_compatibility: []
+    soil:
+      mycorrhizal_type: unknown
+      root_architecture: unknown
+
+    relationships:
+      best_pollinators: [aurora, tundra, indigo-gem]
       companion_plants: []
+      antagonistic_species: []
 
-  - id: honeybee
-    name: Honey Bee
-    role: pollination
-    yield: low
-    stability: high
-    pollination: critical
+    phenology:
+      bud_break: unknown
+      flowering_time: mid
+      fruiting_window: unknown
+
+    utility:
+      edible_value: high
+      market_demand: unknown
 
   - id: indigo-gem
     name: Indigo Gem
-    role: benchmark
-    yield: medium
-    stability: high
-    pollination: strong
+    type: cultivar
+    status: trial               # one you're debating, not yet growing
+    species: haskap
+
+    system_role:
+      primary: pollination
+      network_function: >
+        Early-blooming BTI-series cultivar; historically used as a pollinizer
+        for Aurora; also one of the most productive varieties in its own right.
+
+    performance:
+      productivity_score: unknown
+      stability_score: unknown
+      vigor_score: unknown
+
+    risk:
+      frost_sensitivity: unknown
+      drought_tolerance: unknown
+      disease_susceptibility: unknown
+      winter_kill_risk: low
+
+    environment:
+      climate_zone: "USDA 2-8"
+      soil_ph:
+        optimum:   {min: 5.5, max: 6.5}
+        tolerance: {min: 3.9, max: 7.7}
+        lethal:    {below: unknown, above: unknown}
+
+    soil:
+      mycorrhizal_type: unknown
+      root_architecture: unknown
+
+    relationships:
+      best_pollinators: [aurora, honey-bee]
+      companion_plants: []
+      antagonistic_species: []
+
+    phenology:
+      bud_break: unknown
+      flowering_time: early
+      fruiting_window: early        # ripens mid-June, earlier than Aurora
+
+    utility:
+      edible_value: high
+      market_demand: unknown
 
   - id: tundra
     name: Tundra
-    role: stability
-    yield: medium
-    stability: very_high
-    pollination: compatible
+    type: cultivar
+    status: trial               # one you're debating, not yet growing
+    species: haskap
+
+    system_role:
+      primary: pollination
+      network_function: >
+        Early-blooming BTI-series cultivar; historically used as a pollinizer
+        for Aurora.
+
+    performance:
+      productivity_score: unknown
+      stability_score: unknown
+      vigor_score: unknown
+
+    risk:
+      frost_sensitivity: unknown
+      drought_tolerance: unknown
+      disease_susceptibility: unknown
+      winter_kill_risk: low
+
+    environment:
+      climate_zone: "USDA 2-8"
+      soil_ph:
+        optimum:   {min: 5.5, max: 6.5}
+        tolerance: {min: 3.9, max: 7.7}
+        lethal:    {below: unknown, above: unknown}
+
+    soil:
+      mycorrhizal_type: unknown
+      root_architecture: unknown
+
+    relationships:
+      best_pollinators: [aurora, indigo-gem]
+      companion_plants: []
+      antagonistic_species: []
+
+    phenology:
+      bud_break: unknown
+      flowering_time: early
+      fruiting_window: unknown
+
+    utility:
+      edible_value: high
+      market_demand: unknown
