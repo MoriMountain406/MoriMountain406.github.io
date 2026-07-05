@@ -93,3 +93,35 @@ Version 0.1.0 intentionally focuses on a minimal set of essential attributes. Ra
 Ultimately, the Mori Mountain Entity Schema is intended to become the foundation for a searchable, interconnected library of ecological knowledge—one that helps people better understand not only individual plants, but also the living systems they create together.
 
 We believe ecological knowledge should be structured, transparent, and cumulative. Every observation should have a place, every unknown should remain honestly unknown until verified, and every plant should be understood not as an isolated organism but as part of a larger living network. The Mori Mountain Entity Schema is our attempt to build a common language for documenting those relationships so that knowledge can be shared, improved, and carried forward.
+
+---
+
+## Current Status
+
+The Mori Mountain Entity Schema is in active development.
+
+Current priorities include:
+
+- Core taxonomy
+- Environmental preferences
+- Cultivation data
+- Ecological relationships
+- Stable identifiers
+
+Future versions may expand into:
+
+- Soil biology
+- Genomic information
+- Geographic observations
+- Phenology
+- Breeding lineages
+- Sensor-derived field data
+
+---
+
+Draft Specification — v0.1.0
+
+This document represents the initial public draft of the Mori Mountain Entity Schema. It is expected to evolve as additional plants, cultivars, fungi, and ecological relationships are documented. Backward compatibility is desirable but not guaranteed during the 0.x development phase. Feedback, discussion, and proposed improvements are encouraged.
+
+
+
