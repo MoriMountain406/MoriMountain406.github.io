@@ -123,5 +123,55 @@ Draft Specification — v0.1.0
 
 This document represents the initial public draft of the Mori Mountain Entity Schema. It is expected to evolve as additional plants, cultivars, fungi, and ecological relationships are documented. Backward compatibility is desirable but not guaranteed during the 0.x development phase. Feedback, discussion, and proposed improvements are encouraged.
 
+# MORI MOUNTAIN ENTITY SCHEMA — v0.1.0 (TEMPLATE)
+# Copy this block once per cultivar/plant. Leave a field as `unknown` or
+# `null` rather than guessing — unknown is a valid, honest value here.
+
+id:                          # unique-slug, e.g. aurora
+name:                        # Display Name, e.g. Aurora
+type: cultivar                # species | cultivar | plant
+status:                        # wild | trial | production | archived
+species:                      # e.g. haskap
+
+system_role:
+  primary:                    # production | pollination | resilience | research | benchmark
+  network_function:            # short free-text description of its job in the system
+
+performance:
+  productivity_score:          # 1-10
+  stability_score:              # 1-10
+  vigor_score:                  # 1-10
+
+risk:
+  frost_sensitivity:            # low | medium | high
+  drought_tolerance:            # low | medium | high
+  disease_susceptibility:        # low | medium | high
+  winter_kill_risk:              # low | medium | high
+
+environment:
+  climate_zone:                # e.g. "USDA 2-7"
+  soil_ph:
+    optimum:   {min: null, max: null}   # thrives here
+    tolerance: {min: null, max: null}   # survives, but stressed
+    lethal:    {below: null, above: null} # plant dies outside this
+
+soil:
+  mycorrhizal_type:              # endo | ecto | ericoid | none | unknown
+  root_architecture:              # tap | fibrous | rhizomatous | surface
+
+relationships:
+  best_pollinators: []
+  companion_plants: []
+  antagonistic_species: []
+
+phenology:
+  bud_break:                    # early | mid | late
+  flowering_time:                # early | mid | late
+  fruiting_window:                # early | mid | late
+
+utility:
+  edible_value:                  # low | medium | high
+  market_demand:                  # low | medium | high
+
 
 
